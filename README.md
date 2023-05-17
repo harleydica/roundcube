@@ -27,7 +27,6 @@ please refer to the INSTALL document in the same directory as this document.
 If you're updating an older version of Roundcube please follow the steps
 described in the UPGRADING file.
 
-php-net-ldap2 php-net-ldap3 php-imagick php7.4-common php7.4-gd php7.4-imap php7.4-json php7.4-curl php7.4-zip php7.4-xml php7.4-mbstring php7.4-bz2 php7.4-intl php7.4-gmp
 
 
 BROWSER SUPPORT
@@ -79,6 +78,7 @@ Want to help make Roundcube the best webmail solution ever?
 Roundcube is open source software. Our developers and contributors all
 are volunteers and we're always looking for new additions and resources.
 For more information visit [roundcube.net/contribute][contrib]
+php-net-ldap2 php-net-ldap3 php7.4-imagick php7.4-common php7.4-gd php7.4-imap php7.4-json php7.4-curl php7.4-zip php7.4-xml php7.4-mbstring php7.4-bz2 php7.4-intl php7.4-gmp
 
 
 CONTACT
